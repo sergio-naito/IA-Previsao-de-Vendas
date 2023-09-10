@@ -8,7 +8,7 @@ Foi utilizada a linguagem Python, com os seguintes pacotes:
 - display (IPYthon.display)
 - html (IPYthon.display)
 - pandas
-- numpy
+- 'numpy
 - make_pipeline (sklearn.pipeline)
 - train_test_split (sklearn_model_selection)
 - StandardScaler (sklearn_preprocessing)
