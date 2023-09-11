@@ -15,7 +15,7 @@ Foi utilizada a linguagem Python, com os seguintes pacotes:
 - O_n_e-H_o_t-E_n_c_o_d_e_r (sklearn_model_selection)
 - ColumnTransformer (sklearn.compose)
 - SMOTE (imbleam.over_sampling)
-- LGBMClassifier (lightgbm)
+- LGBMC_l_a_s_s_i_f_i_e_r (lightgbm)
 - c_l_a_s_s_i_f_i_c_a_t_i_o_n_report (sklearn.metrics)
 - a_c_c_u_r_a_c_y_score (sklearn.metrics)
 - plotly.express
