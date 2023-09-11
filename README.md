@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido para treinamento na Semana da Era dos Dados, realizado pelo Professor Eduardo - Ciência dos Dados, do Programa CDPRO (Cientista de Dados Profissional), nos dias 19, 21 e 23.06.2023, com o objetivo de criar uma Inteligência Artificial para Predição de Vendas.
 
-Fez a utilização da linguagem Python, com os seguintes pacotes:
+Feita a utilização da linguagem Python, com os seguintes pacotes:
 - gdown
 - ProfileReport (pandas-profiling)
 - d_i_s_p_l_a_y (IPYthon.display)
