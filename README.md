@@ -24,3 +24,8 @@ Foi utilizada a linguagem Python, com os seguintes pacotes:
 - s_t_r_e_a_m_l_i_t
 - ngrok
 - e principalmente o Deploy, que mostra o resultado da previsão no Browser, no Smartphone, no Tablet.
+
+
+Observações: 
+- algumas palavras dos pacotes estao com "underscore (_)" para manter a palavra em inglês, sem que faça a tradução para o português;
+- também tem a dica de colocar um link da palavra em inglês e no final colocar [target="_blank"], para manter a palavra em inglês.
