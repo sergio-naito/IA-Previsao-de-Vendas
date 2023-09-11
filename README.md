@@ -5,22 +5,22 @@ Este projeto foi desenvolvido para treinamento na Semana da Era dos Dados, reali
 Foi utilizada a linguagem Python, com os seguintes pacotes:
 - gdown
 - ProfileReport (pandas-profiling)
-- display (IPYthon.display)
+- d_i_s_p_l_a_y (IPYthon.display)
 - html (IPYthon.display)
 - pandas
-- n_u_m_p_y: https://numpy.org/doc/stable/[target="_blank"]
+- n_u_m_p_y
 - make_pipeline (sklearn.pipeline)
 - train_test_split (sklearn_model_selection)
 - StandardScaler (sklearn_preprocessing)
-- One-Hot-Encoder (sklearn_model_selection)
+- O_n_e-H_o_t-E_n_c_o_d_e_r (sklearn_model_selection)
 - ColumnTransformer (sklearn.compose)
 - SMOTE (imbleam.over_sampling)
 - LGBMClassifier (lightgbm)
 - classification_report (sklearn.metrics)
-- accuracy_score (sklearn.metrics)
+- a_c_c_u_r_a_c_y_score (sklearn.metrics)
 - plotly.express
 - plotly.graph_objects
 - p_i_c_k_l_e
-- s_t_r_e_a_m_l_i_t: https://docs.streamlit.io/[target="_blank"]
+- s_t_r_e_a_m_l_i_t
 - ngrok
 - e principalmente o Deploy, que mostra o resultado da previsão no Browser, no Smartphone, no Tablet.
