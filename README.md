@@ -9,6 +9,7 @@ Foi utilizada a linguagem Python, com os seguintes pacotes:
 - html (IPYthon.display)
 - pandas
 - numpy: https://docs.python-numpy.org/en/latest/[target="_blank"]
+- numpy: https://numpy.org/doc/stable/[target="_blank"]
 - make_pipeline (sklearn.pipeline)
 - train_test_split (sklearn_model_selection)
 - StandardScaler (sklearn_preprocessing)
