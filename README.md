@@ -1,6 +1,6 @@
 # IA para Previsão de Vendas
 
-Este projeto foi desenvolvido para treinamento na Semana da Era dos Dados, realizado pelo Professor Eduardo - Ciência dos Dados, nos dias 19, 21 e 23.06.2023, com o objetivo de criar uma Inteligência Artificial para Predição de Vendas.
+Este projeto foi desenvolvido para treinamento na Semana da Era dos Dados, realizado pelo Professor Eduardo - Ciência dos Dados, do Programa CDPRO (Cientista de Dados Profissional), nos dias 19, 21 e 23.06.2023, com o objetivo de criar uma Inteligência Artificial para Predição de Vendas.
 
 Foi utilizada a linguagem Python, com os seguintes pacotes:
 - gdown
