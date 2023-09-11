@@ -20,7 +20,7 @@ Foi utilizada a linguagem Python, com os seguintes pacotes:
 - accuracy_score (sklearn.metrics)
 - plotly.express
 - plotly.graph_objects
-- p i c k l e:https://docs.python.org/3/library/pickle.html/[target="_blank"] 
+- p-i-c-k-l-e: https://docs.python.org/3/library/pickle.html/[target="_blank"] 
 - streamlit: https://docs.streamlit.io/[target="_blank"]
 - ngrok
 - e principalmente o Deploy, que mostra o resultado da previsão no Browser, no Smartphone, no Tablet.
