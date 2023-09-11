@@ -17,10 +17,10 @@ Foi utilizada a linguagem Python, com os seguintes pacotes:
 - SMOTE (imbleam.over_sampling)
 - LGBMClassifier (lightgbm)
 - classification_report (sklearn.metrics)
-- accuracy_socre (sklearn.metrics)
+- accuracy_score (sklearn.metrics)
 - plotly.express
 - plotly.graph_objects
-- pickle
+- pickle: https://docs.python.org/3/library/pickle.html[target-"_blank"] 
 - streamlit: https://docs.streamlit.io/[target="_blank"]
 - ngrok
 - e principalmente o Deploy, que mostra o resultado da previsão no Browser, no Smartphone, no Tablet.
