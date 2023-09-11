@@ -8,7 +8,7 @@ Foi utilizada a linguagem Python, com os seguintes pacotes:
 - display (IPYthon.display)
 - html (IPYthon.display)
 - pandas
-- numpy: https://numpy.org/doc/stable/[target="_blank"]
+- n_u_m_p_y: https://numpy.org/doc/stable/[target="_blank"]
 - make_pipeline (sklearn.pipeline)
 - train_test_split (sklearn_model_selection)
 - StandardScaler (sklearn_preprocessing)
@@ -20,7 +20,7 @@ Foi utilizada a linguagem Python, com os seguintes pacotes:
 - accuracy_score (sklearn.metrics)
 - plotly.express
 - plotly.graph_objects
-- p_i_c_k_l_e: https://docs.python.org/3/library/pickle.html/[target="_blank"] 
-- streamlit: https://docs.streamlit.io/[target="_blank"]
+- p_i_c_k_l_e
+- s_t_r_e_a_m_l_i_t: https://docs.streamlit.io/[target="_blank"]
 - ngrok
 - e principalmente o Deploy, que mostra o resultado da previsão no Browser, no Smartphone, no Tablet.
