@@ -1,6 +1,7 @@
 # IA para Previsão de Vendas
 
 Por que este projeto é importante para mim?
+
 Resposta: Este projeto é importante, pois foi o primeiro projeto ou primeiro portfólio como Cientista de Dados, que inclui neste repositório do GitHub.
 O meu aprendizado sobre Ciência de Dados, começou no dia 01.06.2023, quando conheci o Professor Eduardo - Ciência dos Dados do Programa CDPRO (Cientsta de Dados Profissional), quando o algoritmo do YouTube, me encontrou quando fazia pesquisa sobre Inteligência Artificial, e me apresentou um video sobre 10 dias de Aquecimento para o Evento da Era dos Dados.
 
