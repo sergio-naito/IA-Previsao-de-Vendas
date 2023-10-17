@@ -16,7 +16,7 @@ Feita a utilização da linguagem Python, com os seguintes pacotes:
 - ColumnTransformer (sklearn.compose)
 - SMOTE (imbleam.over_sampling)
 - LGBM<notranslate>Classifier</notranslate> (lightgbm)
-- <notranslate>classificationreport</notranslate (sklearn.metrics)
+- <notranslate>classificationreport</notranslate> (sklearn.metrics)
 - <notranslate>accuracyscore</notranslate> (sklearn.metrics)
 - plotly.express
 - plotly.graph_objects
@@ -29,3 +29,4 @@ Feita a utilização da linguagem Python, com os seguintes pacotes:
 Observações: 
 - algumas palavras dos pacotes estao com "underscore (_)" para manter a palavra em inglês, sem que faça a tradução para o português;
 - também tem a dica de colocar um link da palavra em inglês e no final colocar [target="_blank"], para manter a palavra em inglês.
+- inclusão de "<notranslate>" e "</notranslate>" e a palavra em inglês, que não deve ser traduzido, para o Português.
