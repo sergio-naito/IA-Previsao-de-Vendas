@@ -5,7 +5,7 @@ Este projeto foi desenvolvido para treinamento na Semana da Era dos Dados, reali
 Feita a utilização da linguagem Python, com os seguintes pacotes:
 - gdown
 - ProfileReport (pandas-profiling)
-- d_i_s_p_l_a_y (IPYthon.display)
+- <notranslate>d_isplay</notranslate>(IPYthon.display)
 - html (IPYthon.display)
 - pandas
 - n_u_m_p_y
