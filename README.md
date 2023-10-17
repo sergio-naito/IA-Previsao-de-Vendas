@@ -1,6 +1,14 @@
 # IA para Previsão de Vendas
 
-Este projeto foi desenvolvido para treinamento na Semana da Era dos Dados, realizado pelo Professor Eduardo - Ciência dos Dados, do Programa CDPRO (Cientista de Dados Profissional), nos dias 19, 21 e 23.06.2023, com o objetivo de criar uma Inteligência Artificial para Predição de Vendas.
+Por que este projeto é importante para mim?
+Resposta: Este projeto é importante, pois foi o primeiro projeto ou primeiro portfólio como Cientista de Dados, que inclui neste repositório do GitHub.
+O meu aprendizado sobre Ciência de Dados, começou no dia 01.06.2023, quando conheci o Professor Eduardo - Ciência dos Dados do Programa CDPRO (Cientsta de Dados Profissional), quando o algoritmo do YouTube, me encontrou quando fazia pesquisa sobre Inteligência Artificial, e me apresentou um video sobre 10 dias de Aquecimento para o Evento da Era dos Dados.
+
+Participei dos vídeos ao vivo, dos dias 05.06.2023 a 16.06.2023. Nestes vídeos foram feitas várias apresentações de algoritmos. 
+
+Depois da semana de aquecimento foi a vez do Treinamento.
+
+Este projeto foi desenvolvido para Treinamento na Semana da Era dos Dados, realizado pelo Professor Eduardo - Ciência dos Dados, do Programa CDPRO (Cientista de Dados Profissional), nos dias 19, 21 e 23.06.2023, com o objetivo de criar uma Inteligência Artificial para Predição de Vendas.
 
 Feita a utilização da linguagem Python, com os seguintes pacotes:
 - gdown
