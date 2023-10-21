@@ -40,4 +40,6 @@ Observações:
 - também tem a dica de colocar um link da palavra em inglês e no final colocar [target="_blank"], para manter a palavra em inglês.
 - inclusão de \<notranslate\> <notranlate> streamlit </notranslate> \<\/notranslate\> e a palavra em inglês no meio de \<notranslate\>, que não deve ser traduzido, para o Português. Sem as tags a tradução automática ficaria "iluminado".
 
+## Descrição detalhada de cada pacote
+
   
