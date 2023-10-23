@@ -7,7 +7,7 @@ O meu aprendizado sobre Ciência de Dados, começou no dia 01.06.2023, quando co
 
 Participei dos vídeos ao vivo, dos dias 05.06.2023 a 16.06.2023. Nestes vídeos foram feitas várias apresentações de algoritmos. 
 
-Depois da semana de aquecimento foi a vez do Treinamento.
+Depois da semana de aquecimento foi a vez do Treinamento, propriamente dito.
 
 Este projeto foi desenvolvido para Treinamento na Semana da Era dos Dados, realizado pelo Professor Eduardo - Ciência dos Dados, do Programa CDPRO (Cientista de Dados Profissional), nos dias 19, 21 e 23.06.2023, com o objetivo de criar uma Inteligência Artificial para Predição de Vendas.
 
