@@ -42,4 +42,6 @@ Observações:
 
 ## Descrição detalhada de cada pacote
 
+Aqui irei detalhar cada pacote do Python.
+
   
