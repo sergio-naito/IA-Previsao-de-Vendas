@@ -44,5 +44,5 @@ Observações:
 
 Aqui irei detalhar cada pacote do Python.
 
-A parte mais importante que é o Deploy, não ficou muito claro e ire detalhar melhor.
+A parte mais importante que é o Deploy, não ficou muito claro e irei detalhar melhor.
   
