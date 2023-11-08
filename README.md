@@ -47,4 +47,6 @@ Aqui irei detalhar cada pacote do Python.
 A parte mais importante que é o Deploy, não ficou muito claro e irei detalhar melhor.
 
 A parte do pacote "ngrok" támbém não ficou muito claro e irei detalhar melhor também.
+
+Para melhorar o entendimento eu irei colocar os print-screens das telas.
   
