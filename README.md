@@ -54,4 +54,77 @@ A parte do pacote "ngrok" támbém não ficou muito claro e irei detalhar melhor
 Para melhorar o entendimento eu irei colocar os print-screens das telas.
 
 
+## Bibliotecas Python para realizar o acesso aos dados
+
+  gdown: Biblioteca Python para realizar o download de arquivos do Google Drive.
+
+## Bibliotecas Python para manipulação de dados
+
+pandas: Biblioteca Python para análise de dados.
+numpy: Biblioteca Python para cálculo numérico.
+
+## Bibliotecas Python para IA - Machine Learning e Automações
+
+sklearn: Biblioteca Python para aprendizado de máquina.
+imblearn: Biblioteca Python para aprendizado de máquina com conjuntos de dados desbalanceados.
+lightgbm: Biblioteca Python para aprendizado de máquina com árvores de decisão.
+pyngrok: Biblioteca Python para criar túneis de acesso à internet.
+Detalhes de cada biblioteca
+
+gdown
+
+A biblioteca gdown é uma biblioteca Python que permite realizar o download de arquivos do Google Drive. Para instalar a biblioteca, execute o seguinte comando no terminal:
+
+Para realizar o download de um arquivo do Google Drive, use o seguinte comando:
+
+gdown https://drive.google.com/uc?id=1_kq8cZ4JZVsYw0BamYfiohSngLIJkoVb
+Este comando irá baixar o arquivo dataset.csv para a pasta atual.
+
+pandas
+
+A biblioteca pandas é uma biblioteca Python para análise de dados. Ela permite carregar dados de diversos formatos, realizar limpeza e transformação de dados, e gerar relatórios e gráficos.
+
+Para instalar a biblioteca, execute o seguinte comando no terminal:
+
+Para carregar um arquivo CSV com o pandas, use o seguinte código:
+
+df = pd.read_csv('dataset.csv', delimiter=',')
+Este código irá carregar o arquivo dataset.csv para um DataFrame do pandas.
+
+numpy
+
+A biblioteca numpy é uma biblioteca Python para cálculo numérico. Ela fornece funções e classes para realizar operações matemáticas e estatísticas com arrays.
+
+Para instalar a biblioteca, execute o seguinte comando no terminal:
+
+sklearn
+
+A biblioteca sklearn é uma biblioteca Python para aprendizado de máquina. Ela fornece algoritmos para aprendizado supervisionado, aprendizado não supervisionado, aprendizado por reforço, e aprendizado de máquina com grandes conjuntos de dados.
+
+Para instalar a biblioteca, execute o seguinte comando no terminal:
+
+imblearn
+
+A biblioteca imblearn é uma biblioteca Python para aprendizado de máquina com conjuntos de dados desbalanceados. Ela fornece algoritmos e técnicas para lidar com o problema de desbalanceamento de classes.
+
+Para instalar a biblioteca, execute o seguinte comando no terminal:
+
+lightgbm
+
+A biblioteca lightgbm é uma biblioteca Python para aprendizado de máquina com árvores de decisão. Ela é uma biblioteca eficiente e precisa, que pode ser utilizada para diversos problemas de aprendizado de máquina.
+
+Para instalar a biblioteca, execute o seguinte comando no terminal:
+
+pyngrok
+
+A biblioteca pyngrok é uma biblioteca Python para criar túneis de acesso à internet. Ela permite expor um servidor local à internet, o que pode ser útil para fins de desenvolvimento ou teste.
+
+Para instalar a biblioteca, execute o seguinte comando no terminal:
+
+Para criar um túnel de acesso à internet, use o seguinte código:
+
+from pyngrok import ngrok
+
+public_url = ngrok.connect(port='8501')
+Este código irá criar um túnel de acesso à internet na porta 8501. A variável public_url irá conter o endereço público do servidor local.
   
