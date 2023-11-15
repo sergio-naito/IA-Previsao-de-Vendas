@@ -61,14 +61,20 @@ Para melhorar o entendimento eu irei colocar os print-screens das telas.
 ## Bibliotecas Python para manipulação de dados
 
 pandas: Biblioteca Python para análise de dados.
+
 numpy: Biblioteca Python para cálculo numérico.
 
 ## Bibliotecas Python para IA - Machine Learning e Automações
 
 sklearn: Biblioteca Python para aprendizado de máquina.
+
 imblearn: Biblioteca Python para aprendizado de máquina com conjuntos de dados desbalanceados.
+
 lightgbm: Biblioteca Python para aprendizado de máquina com árvores de decisão.
+
 pyngrok: Biblioteca Python para criar túneis de acesso à internet.
+
+
 Detalhes de cada biblioteca
 
 gdown
