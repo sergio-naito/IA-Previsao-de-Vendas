@@ -11,6 +11,8 @@ Depois da semana de aquecimento foi a vez do Treinamento, propriamente dito.
 
 Este projeto foi desenvolvido para Treinamento na Semana da Era dos Dados, realizado pelo Professor Eduardo - Ciência dos Dados, do Programa CDPRO (Cientista de Dados Profissional), nos dias 19, 21 e 23.06.2023, com o objetivo de criar uma Inteligência Artificial para Predição de Vendas.
 
+A partir de primeiro projeto efetuado com sucesso, eu resolvi me matricular no [Curso Programa CDPRO do Professor Eduardo Rocha](https://github.com/sergio-naito/Programa-CDPRO/tree/main).
+
 Feita a utilização da linguagem Python, com os seguintes pacotes:
 - gdown
 - ProfileReport (pandas-profiling)
