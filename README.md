@@ -46,91 +46,100 @@ Aqui irei detalhar cada pacote do Python.
 
 A parte mais importante que é o Deploy, não ficou muito claro e irei detalhar melhor.
 
-#gdown - para fazer o download do arquivo
 
-#ProfileReport
-A parte do pacote "ngrok" támbém não ficou muito claro e irei detalhar melhor também.
+### gdown
 
-Para melhorar o entendimento eu irei colocar os print-screens das telas.
+O pacote gdown é uma biblioteca Python para baixar arquivos do Google Drive. Ele simplifica o processo de download de arquivos do Google Drive fornecendo uma interface amigável ao usuário e lidando com o processo de autenticação.
 
-
-## Bibliotecas Python para realizar o acesso aos dados
-
-  gdown: Biblioteca Python para realizar o download de arquivos do Google Drive.
-
-## Bibliotecas Python para manipulação de dados
-
-pandas: Biblioteca Python para análise de dados.
-
-numpy: Biblioteca Python para cálculo numérico.
-
-## Bibliotecas Python para IA - Machine Learning e Automações
-
-sklearn: Biblioteca Python para aprendizado de máquina.
-
-imblearn: Biblioteca Python para aprendizado de máquina com conjuntos de dados desbalanceados.
-
-lightgbm: Biblioteca Python para aprendizado de máquina com árvores de decisão.
-
-pyngrok: Biblioteca Python para criar túneis de acesso à internet.
-
-
-Detalhes de cada biblioteca
-
-gdown
-
-A biblioteca gdown é uma biblioteca Python que permite realizar o download de arquivos do Google Drive. Para instalar a biblioteca, execute o seguinte comando no terminal:
-
-Para realizar o download de um arquivo do Google Drive, use o seguinte comando:
+Para realizar o download de um arquivo do Google Drive, usamos o seguinte comando:
 
 gdown https://drive.google.com/uc?id=1_kq8cZ4JZVsYw0BamYfiohSngLIJkoVb
 Este comando irá baixar o arquivo dataset.csv para a pasta atual.
 
-pandas
+
+### pandas-profiling
+
+O pacote pandas-profiling é uma biblioteca Python para fazer o perfil de DataFrames do pandas. Ele fornece uma visão abrangente dos dados, incluindo estatísticas, tipos de dados, valores ausentes e correlações.
+
+### pandas
 
 A biblioteca pandas é uma biblioteca Python para análise de dados. Ela permite carregar dados de diversos formatos, realizar limpeza e transformação de dados, e gerar relatórios e gráficos.
-
-Para instalar a biblioteca, execute o seguinte comando no terminal:
 
 Para carregar um arquivo CSV com o pandas, use o seguinte código:
 
 df = pd.read_csv('dataset.csv', delimiter=',')
 Este código irá carregar o arquivo dataset.csv para um DataFrame do pandas.
 
-numpy
 
-A biblioteca numpy é uma biblioteca Python para cálculo numérico. Ela fornece funções e classes para realizar operações matemáticas e estatísticas com arrays.
+### IPython.display
 
-Para instalar a biblioteca, execute o seguinte comando no terminal:
+O módulo IPython.display fornece funções para exibir objetos em notebooks do IPython. Ele inclui funções para exibir texto, imagens, HTML e widgets interativos.
 
-sklearn
+### numpy
 
-A biblioteca sklearn é uma biblioteca Python para aprendizado de máquina. Ela fornece algoritmos para aprendizado supervisionado, aprendizado não supervisionado, aprendizado por reforço, e aprendizado de máquina com grandes conjuntos de dados.
+O pacote numpy é uma biblioteca Python para computação numérica. Ele fornece funções e classes para trabalhar com arrays, matrizes e álgebra linear.
 
-Para instalar a biblioteca, execute o seguinte comando no terminal:
 
-imblearn
+### sklearn.pipeline
+
+O módulo sklearn.pipeline fornece ferramentas para criar pipelines, que são sequências de transformadores e estimadores. Os pipelines são úteis para simplificar o processo de construção de modelos de aprendizado de máquina.
+
+### sklearn_model_selection
+
+O módulo sklearn_model_selection fornece funções para avaliar e selecionar modelos de aprendizado de máquina. Ele inclui funções para dividir dados em conjuntos de treinamento e teste, validação cruzada e ajuste de hiperparâmetros.
+
+### sklearn.preprocessing
+
+O módulo sklearn.preprocessing fornece ferramentas para pré-processar dados antes de treinar modelos de aprendizado de máquina. Ele inclui funções para escalar recursos, codificar variáveis categóricas e imputar valores ausentes.
+
+### imblearn
 
 A biblioteca imblearn é uma biblioteca Python para aprendizado de máquina com conjuntos de dados desbalanceados. Ela fornece algoritmos e técnicas para lidar com o problema de desbalanceamento de classes.
 
-Para instalar a biblioteca, execute o seguinte comando no terminal:
+### imblearn.over_sampling
 
-lightgbm
+O pacote imblearn.over_sampling fornece ferramentas para sobreamostragem de classes minoritárias em conjuntos de dados desbalanceados. Ele inclui algoritmos para gerar exemplos sintéticos de classe minoritária.
 
-A biblioteca lightgbm é uma biblioteca Python para aprendizado de máquina com árvores de decisão. Ela é uma biblioteca eficiente e precisa, que pode ser utilizada para diversos problemas de aprendizado de máquina.
+### lightgbm
 
-Para instalar a biblioteca, execute o seguinte comando no terminal:
+O pacote lightgbm é uma biblioteca Python para máquinas de aprendizado por reforço e para aprendizado de máquina com árvores de decisão. É uma biblioteca de aprendizado de máquina rápida, eficiente e precisa que pode ser usada para uma variedade de tarefas, incluindo classificação, regressão e classificação.
 
-pyngrok
+### sklearn
 
-A biblioteca pyngrok é uma biblioteca Python para criar túneis de acesso à internet. Ela permite expor um servidor local à internet, o que pode ser útil para fins de desenvolvimento ou teste.
+A biblioteca sklearn é uma biblioteca Python para aprendizado de máquina. Ela fornece algoritmos para aprendizado supervisionado, aprendizado não supervisionado, aprendizado por reforço, e aprendizado de máquina com grandes conjuntos de dados.
 
-Para instalar a biblioteca, execute o seguinte comando no terminal:
+### sklearn.metrics
 
-Para criar um túnel de acesso à internet, use o seguinte código:
+O módulo sklearn.metrics fornece funções para avaliar o desempenho de modelos de aprendizado de máquina. Ele inclui funções para calcular métricas de classificação, como precisão, recall e pontuação F1.
+
+### plotly.express
+
+O pacote plotly.express fornece uma API de alto nível para criar visualizações interativas com Plotly. Ele simplifica o processo de criação de gráficos e tabelas fornecendo um conjunto de funções pré-definidas.
+
+### plotly.graph_objects
+
+O pacote plotly.graph_objects fornece uma API de nível inferior para criar visualizações interativas com Plotly. Ele oferece mais controle sobre a aparência e o comportamento de gráficos e tabelas.
+
+### pickle
+
+O módulo pickle fornece funções para serializar e desserializar objetos Python. Ele permite salvar objetos Python em um arquivo e carregá-los de volta para a memória em um momento posterior.
+
+### streamlit
+
+O pacote streamlit é uma biblioteca Python para criar aplicativos web interativos. Ele simplifica o processo de criação de aplicativos web com Python fornecendo uma interface amigável ao usuário e lidando com o código HTML, CSS e JavaScript.
+
+### ngrok
+
+O pacote ngrok é uma biblioteca Python para criar túneis para expor servidores web locais à internet. Ele permite testar seus aplicativos web localmente e compartilhá-los com outras pessoas sem ter que implantá-los em um servidor público, o que pode ser útil para fins de desenvolvimento ou teste.
+
+Para criar um túnel de acesso à internet, usamos o seguinte código:
 
 from pyngrok import ngrok
 
 public_url = ngrok.connect(port='8501')
 Este código irá criar um túnel de acesso à internet na porta 8501. A variável public_url irá conter o endereço público do servidor local.
-  
+
+A parte do pacote "ngrok" támbém não ficou muito claro e irei detalhar melhor também.
+
+Para melhorar o entendimento eu irei colocar os print-screens das telas.
+
